@@ -29,6 +29,10 @@ CCNA Static Routing Lab using Cisco Packet Tracer. Includes step-by-step configu
 - Corrected routes resolved connectivity issues.
 - Learned troubleshooting and verification for multi-router topology.
 
+## Documentation
+- [Lab Documentation PDF]
+  (Static_Routing_Lab.pdf)
+
 ## Topology Image
   <img width="1362" height="718" alt="Image" src="https://github.com/user-attachments/assets/7d40bdd4-6679-48dc-aefe-0537811a2113" />
 
