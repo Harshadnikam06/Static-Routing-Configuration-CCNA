@@ -1,4 +1,4 @@
-# static-Routing-Configuration-CCNA
+# Static-Routing-Configuration-CCNA
 CCNA Static Routing Lab using Cisco Packet Tracer. Includes step-by-step configuration, ping tests, and network topology
 
 ## Objective
@@ -30,11 +30,11 @@ CCNA Static Routing Lab using Cisco Packet Tracer. Includes step-by-step configu
 - Learned troubleshooting and verification for multi-router topology.
 
 ## Documentation
-- [Lab Documentation PDF]
-  (Static_Routing_Lab.pdf)
+- The complete step-by-step configuration and observations are available in the PDF below:
+ [Static_Routing_Lab.pdf](https://github.com/user-attachments/files/22674493/Static_Routing_Lab.pdf)
 
 ## Topology Image
- [Static_Routing_Lab.pdf](https://github.com/user-attachments/files/22674493/Static_Routing_Lab.pdf)
+
   
 
   
