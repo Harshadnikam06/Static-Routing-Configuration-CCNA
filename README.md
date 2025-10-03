@@ -34,8 +34,7 @@ CCNA Static Routing Lab using Cisco Packet Tracer. Includes step-by-step configu
   (Static_Routing_Lab.pdf)
 
 ## Topology Image
-  <img width="1362" height="718" alt="Image" src="https://github.com/user-attachments/assets/7d40bdd4-6679-48dc-aefe-0537811a2113" />
-
+ [Static_Routing_Lab.pdf](https://github.com/user-attachments/files/22674493/Static_Routing_Lab.pdf)
   
 
   
